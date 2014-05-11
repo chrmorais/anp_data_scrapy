@@ -9,3 +9,9 @@ install::
 run::
 
     scrapy crawl anp_postos -o items.csv -t csv 
+
+TODO:
+
+    - Loop over all states and types
+    - Handle pagination
+    - Capture all fields
